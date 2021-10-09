@@ -1,0 +1,11 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Manomotion/Scenes/ChooseExercise.unity
+    guid: 5a63bc78e5edbc644bab2b3270cb32b2
+  m_configObjects: {}
